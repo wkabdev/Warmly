@@ -1,6 +1,6 @@
 # 🌡️ Warmly – Radiateurs connectés intelligents
 
-**Warmly** est une alternative personnelle à la solution Heatzy, développée dans le cadre de mon BTS CIEL, visant à piloter et automatiser les radiateurs électriques à distance.
+**Warmly** est une alternative personnelle à la solution Heatzy, développée seul dans le cadre de mon BTS CIEL, visant à piloter et automatiser les radiateurs électriques à distance.
 
 ---
 
