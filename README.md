@@ -10,6 +10,7 @@
 - Créer un planning automatique de chauffe
 - Visualiser la consommation électrique en temps réel (courbes)
 - Suivre la température et l’humidité par pièce
+- Ëtre notifié de chaque changement de mode et de température
 
 ---
 
