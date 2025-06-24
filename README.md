@@ -9,7 +9,7 @@
 - Piloter un ou plusieurs radiateurs depuis une application mobile
 - Créer un planning automatique de chauffe
 - Visualiser la consommation électrique en temps réel (courbes)
-- Suivre la température et l’humidité par pièce
+- Suivre la température et l’humidité par pièce et radiateur en temps réel
 - Être notifié de chaque changement de mode et de température
 
 ---
