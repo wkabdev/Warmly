@@ -34,4 +34,4 @@
 ## 🙋‍♂️ Auteur
 
 **Walid Kabli**  
-Développeur junior systèmes et embarqué – [CV ici](lien-vers-CV)
+[CV ici](lien-vers-CV)
