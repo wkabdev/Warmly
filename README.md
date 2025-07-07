@@ -17,7 +17,7 @@
 ## 🔧 Technologies utilisées
 
 - **React Native** (TypeScript) pour l'application mobile
-- **Node.js + PHP API** sur serveur **LAMP** pour le backend
+- **PHP API + Node.js** sur serveur **LAMP** pour le backend
 - **ESP8266** pour la communication matérielle (avec capteurs de température, courant, fil pilote)
 
 ---
