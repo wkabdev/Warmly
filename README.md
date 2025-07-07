@@ -24,7 +24,7 @@
 
 ## 📷 Démonstration
 
-🎥 [Vidéo présentation Warmly](https://youtube.com/TON-LIEN-ICI)
+🎥 [Vidéo de présentation du projet Warmly](https://youtube.com/TON-LIEN-ICI)
 
 > ⚠️ Le code source complet n’est pas publié publiquement afin de protéger la logique technique et commerciale du projet. Ce dépôt contient uniquement une présentation visuelle et fonctionnelle du système.
 
