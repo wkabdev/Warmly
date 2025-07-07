@@ -24,8 +24,7 @@
 
 ## 📷 Démonstration
 
-📄 [Présentation du projet (PDF)](demo/Warmly_Presentation.pdf)  
-📸 Dossier `demo/screenshots/` : captures de l'application et des composants
+🎥 Vidéo de présentation complète du projet Warmly : [YouTube](https://youtube.com/TON-LIEN-ICI)
 
 > ⚠️ Le code source complet n’est pas publié publiquement afin de protéger la logique technique et commerciale du projet. Ce dépôt contient uniquement une présentation visuelle et fonctionnelle du système.
 
@@ -34,4 +33,3 @@
 ## 🙋‍♂️ Auteur
 
 **Walid Kabli**  
-[CV ici](lien-vers-CV)
